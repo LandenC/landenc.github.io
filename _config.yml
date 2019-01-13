@@ -1,0 +1,50 @@
+# Owner and Site Information
+name: Landen Crabtree
+description: Landen Crabtree Personal Website
+meta_description: "Landen Crabtree Personal Website"
+
+owner:
+  avatar:
+  bio:            "No Clue Yet"
+  email:          landenc@gmail.com
+  twitter:        landenc
+  github:         landenc
+  instagram:      landenc
+  dribbble:
+  disqus:
+  location:       "Edmonton, AB"
+
+page:
+  interests: /interests
+  placebo: /placebo
+  contact: /contact
+  ti4: /ti4
+
+markdown: kramdown
+highlighter: rouge
+logo: false
+paginate: 15
+baseurl: /
+domain_name: 'http://landenc.com'
+google_analytics: 'UA-39052314-1'
+gems: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url:            'http://landenc.com'
+author:         'Landen Crabtree'
+
+#SEO Information
+title: Landen Crabtree
+tagline: Landen Crabtree Personal Website
+canonical: http://landenc.com
+
+tools:
+  standards: "HTML, SCSS, Jekyll"
+  software: "git"
+
+# Open Graph customization
+opengraph:
+  locale: en_US
+
+sass:
+    style: :compressed
